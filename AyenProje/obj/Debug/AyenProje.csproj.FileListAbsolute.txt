@@ -1,0 +1,16 @@
+C:\Users\Eray DUMAN\source\repos\AyenProje\AyenProje\bin\Debug\AyenProje.exe.config
+C:\Users\Eray DUMAN\source\repos\AyenProje\AyenProje\bin\Debug\AyenProje.exe
+C:\Users\Eray DUMAN\source\repos\AyenProje\AyenProje\bin\Debug\AyenProje.pdb
+C:\Users\Eray DUMAN\source\repos\AyenProje\AyenProje\obj\Debug\AyenProje.csproj.AssemblyReference.cache
+C:\Users\Eray DUMAN\source\repos\AyenProje\AyenProje\obj\Debug\AyenProje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Eray DUMAN\source\repos\AyenProje\AyenProje\obj\Debug\AyenProje.Form1.resources
+C:\Users\Eray DUMAN\source\repos\AyenProje\AyenProje\obj\Debug\AyenProje.Properties.Resources.resources
+C:\Users\Eray DUMAN\source\repos\AyenProje\AyenProje\obj\Debug\AyenProje.csproj.GenerateResource.cache
+C:\Users\Eray DUMAN\source\repos\AyenProje\AyenProje\obj\Debug\AyenProje.csproj.CoreCompileInputs.cache
+C:\Users\Eray DUMAN\source\repos\AyenProje\AyenProje\obj\Debug\AyenProje.exe
+C:\Users\Eray DUMAN\source\repos\AyenProje\AyenProje\obj\Debug\AyenProje.pdb
+C:\Users\Eray DUMAN\source\repos\AyenProje\AyenProje\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Eray DUMAN\source\repos\AyenProje\AyenProje\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Eray DUMAN\source\repos\AyenProje\AyenProje\obj\Debug\AyenProje.csproj.CopyComplete
+C:\Users\Eray DUMAN\source\repos\AyenProje\AyenProje\bin\Debug\FileHelpers.dll
+C:\Users\Eray DUMAN\source\repos\AyenProje\AyenProje\bin\Debug\FileHelpers.xml
